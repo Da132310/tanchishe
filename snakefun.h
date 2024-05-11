@@ -1,4 +1,5 @@
 #include"tanchishedefine.h"
+#include"Snake_setting.h"
 #include<iostream>
 #include<Windows.h>
 #include<conio.h>
